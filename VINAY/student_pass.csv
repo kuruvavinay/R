@@ -1,0 +1,11 @@
+"","X","student_id","name","age","gender","major","gpa","passed"
+"1",1,1,"vinay",21,"male","cse",4.9,TRUE
+"2",2,2,"vikey",22,"male","cse",4.8,TRUE
+"3",3,3,"isha",19,"female","csebs",4,TRUE
+"4",4,4,"vittal",23,"male","mech",3,FALSE
+"5",5,5,"atul",25,"male","civil",3.8,TRUE
+"6",6,6,"bobby",24,"male","ai",4.5,TRUE
+"7",7,7,"gian",27,"male","dse",2.1,FALSE
+"8",8,8,"priyank",24,"male","cseis",5,TRUE
+"9",9,9,"agarwal",30,"female","mli",4,TRUE
+"10",10,10,"dileep",20,"male","ece",2.5,FALSE

@@ -1,0 +1,11 @@
+"","product_id","product_name","category","units_sold","revenue","date"
+"1",1,"fans","electric",2,500,2012
+"2",2,"bulb","electric",4,10,2020
+"3",3,"tube light","electric",6,50,2022
+"4",4,"ac","electric",1,50000,2021
+"5",5,"cpu","lab",1,12000,2019
+"6",6,"monitor","lab",1,7000,2012
+"7",7,"keyboard","lab",1,500,2020
+"8",8,"mouse","lab",1,1000,2022
+"9",9,"chairs","lab",3,13000,2021
+"10",10,"spects","lab",2,1200,2019

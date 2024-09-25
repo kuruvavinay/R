@@ -1,0 +1,11 @@
+"","product_id","product_name","category","price"
+"1",1,"fans","electric",200
+"2",2,"bulb","electric",1500
+"3",3,"tube light","electric",2000
+"4",4,"ac","electric",1800
+"5",5,"cpu","lab",9000
+"6",6,"monitor","lab",10000
+"7",7,"keyboard","lab",12000
+"8",8,"mouse","lab",2000
+"9",9,"chairs","lab",2000
+"10",10,"spects","lab",120
